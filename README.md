@@ -113,7 +113,7 @@ This project can be used in:
 1. Clone the repository:
 
 ```
-git clone <your-repo-link>
+git clone <https://github.com/Madhulika-ram/Customer-Segmentation>
 ```
 
 2. Navigate to the folder:
