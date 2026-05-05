@@ -88,7 +88,7 @@ Why?
 
 ## Results & Insights
 
-Example insights (you MUST customize these based on your output):
+Insights :
 
 * Cluster 0 (Moderately engaged): Medium Recency and Frequency. They are steady customers but don't spend as much as VIPs.
 * Cluster 1 (At Risk/Churn): High Recency, Low Frequency, Low Monetary. These customers haven't visited in a long time and spent very little.
